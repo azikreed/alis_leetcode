@@ -10,5 +10,5 @@ var removeElement = function (nums, val) {
     }
   }
 
-  return nums;
+  return index;
 };
