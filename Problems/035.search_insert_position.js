@@ -15,5 +15,3 @@ var searchInsert = function (nums, target) {
 
   return low;
 };
-
-console.log(searchInsert([1, 3, 5, 7, 9, 11, 13, 15, 17, 19], 16));
